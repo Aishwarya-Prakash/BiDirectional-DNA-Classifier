@@ -1,2 +1,2 @@
 # BiDirectional-DNA-Classifier
-Implementation of BiDirectional LSTM for binary lassification of DNA
+Implementation of BiDirectional LSTM for binary classification of DNA
